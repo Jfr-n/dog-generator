@@ -21,7 +21,6 @@
 }
 
 .dog-input{
-    width: 50%;
     font-size: 25px;
     outline: none;
     text-align: center;
@@ -41,5 +40,5 @@
     background-color: aqua;
 }
 .random{
-    background-color: aqua;
+    background-color: red;
 }
